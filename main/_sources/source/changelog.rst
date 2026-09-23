@@ -8,6 +8,9 @@ Upcoming version (not yet released)
 Changed
 ^^^^^^^
 
+- Added isolated ``Mjlab-Compliant-*`` Unitree G1 tasks with explicit walking,
+  recovery, and post-recovery phases. Existing velocity tasks are unchanged.
+
 - Bumped ``rsl-rl-lib`` from 5.5.0 to 5.5.1. This removes the need for capping
   ``wandb`` below 0.29.
 
